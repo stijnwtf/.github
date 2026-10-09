@@ -4,7 +4,6 @@
 
 **Software Engineer** building distributed systems, developer tooling, and full-stack platforms.
 
-[![Website](https://img.shields.io/badge/website-ordnary.com-0a0a0a?style=flat-square&logo=vercel&logoColor=white)](https://ordnary.com)
 [![Org](https://img.shields.io/badge/building_at-@ordnary--com-1f6feb?style=flat-square&logo=github&logoColor=white)](https://github.com/ordnary-com)
 [![Profile Views](https://komarev.com/ghpvc/?username=stijnwtf&style=flat-square&color=blue&label=profile+views)](https://github.com/7txr)
 [![Followers](https://img.shields.io/github/followers/stijnwtf?style=flat-square&label=followers&color=blue)](https://github.com/7txr?tab=followers)
@@ -102,16 +101,6 @@ Currently building at [**@ordnary-com**](https://github.com/ordnary-com).
 
 ---
 
-## Activity
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=stijnwtf&bg_color=0d1117&color=c9d1d9&line=1f6feb&point=ff6b35&area=true&hide_border=true" alt="Activity Graph" />
-
-</div>
-
----
-
 ## Get Involved
 
 Open source thrives on collaboration. Feedback, bug reports, and pull requests are always welcome.
@@ -119,11 +108,3 @@ Open source thrives on collaboration. Feedback, bug reports, and pull requests a
 - 📂 [Browse my repositories](https://github.com/stijnwtf?tab=repositories)
 - ⭐ [See what I'm starring](https://github.com/stijnwtf?tab=stars)
 - 🏢 [Check out Ordnary](https://github.com/ordnary-com)
-
----
-
-<div align="center">
-
-<sub>Built with care · <a href="https://github.com/stijnwtf">@stijnwtf</a></sub>
-
-</div>
